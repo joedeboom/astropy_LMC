@@ -43,6 +43,6 @@ astropy_LMC
 ```
 
 ## First run...
-The first time you run the jupyter notebook to create a dataset, the program will create the annotation array (~10 min) and will save it in the directory for future use. The next time you run the program it will load the saved array and will generate the dataset much faster.
+The first time you run the jupyter notebook to create a dataset, the program will create the annotation array (~10 min) and will save it in the directory for future use. The next time you run the program it will load the saved array and will generate the dataset much faster. It will also save a png image of this array for viewing.
 
 Additionally, this initial run will create the DATASET directory. 
