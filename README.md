@@ -1,0 +1,1 @@
+# astropy_LMC
