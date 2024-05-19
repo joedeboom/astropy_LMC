@@ -7,11 +7,9 @@ from astropy.io import fits
 from astropy.visualization import ZScaleInterval, ImageNormalize, LogStretch, SqrtStretch
 import matplotlib.pyplot as plt
 from tqdm import tqdm
-#import pprint as pp
 from shapely.geometry import Polygon, Point
 from shapely import box
 import random
-#import sys
 import shutil
 from IPython.display import display, clear_output
 
