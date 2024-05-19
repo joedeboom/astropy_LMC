@@ -1,0 +1,11 @@
+numpy
+pillow
+astropy
+matplotlib
+ipython
+dataset-utils
+tabulate
+glob2
+regions
+shapely
+tqdm
